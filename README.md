@@ -10,16 +10,11 @@ A .NET 8.0 console application that connects to the **ABX Server**, retrieves pa
 
 ### 📦 Restore Dependencies
 
-Before running the project, restore all NuGet packages:
-
-dotnet restore
+Before running the project, restore all NuGet packages: **dotnet restore**
 
 ### ▶️ Run the Application
 
-Execute the following command to run the application:
-
-
-dotnet run
+Execute the following command to run the application: **dotnet run**
 
 ## 📁 Output & Logs
 
