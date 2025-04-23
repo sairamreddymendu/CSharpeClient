@@ -1,6 +1,6 @@
 # C#Client
 
-A .NET 8.0 console application that performs specific operations and generates structured output and logs.
+A .NET 8.0 console application that connects to the **ABX Server**, retrieves packet data, validates it, and stores the result as a structured JSON file.
 
 ## 🚀 Getting Started
 
