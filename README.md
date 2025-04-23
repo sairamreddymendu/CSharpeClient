@@ -12,14 +12,13 @@ A .NET 8.0 console application that performs specific operations and generates s
 
 Before running the project, restore all NuGet packages:
 
-```bash
 dotnet restore
 
 ### ▶️ Run the Application
 
 Execute the following command to run the application:
 
-```bash
+
 dotnet run
 
 ## 📁 Output & Logs
